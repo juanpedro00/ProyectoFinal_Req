@@ -1,0 +1,18 @@
+{
+  "name": "melodyquiz",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "cucumber-js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@cucumber/cucumber": "^10.4.0"
+  },
+  "dependencies": {
+    "cucumber": "^6.0.7"
+  }
+}
